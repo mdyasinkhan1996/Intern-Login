@@ -2,7 +2,7 @@
 
 2. Insert databse
 
-3. commend seeder for create three user and three post.
+3. commend seeder for create three new user and three new post.
  seeder = php artisan migrate:fresh --seed
  
 4. npm install
