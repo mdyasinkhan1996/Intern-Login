@@ -7,6 +7,10 @@
  
 4. npm install
 
+5. composer install
+
+6. include .env file
+
 5. For run app 
     5.1 php artisan serve
     5.2 npm run dev
